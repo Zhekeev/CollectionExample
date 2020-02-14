@@ -12,6 +12,7 @@ public class SetExample {
         set.add("UAE");
         set.add("Kazakhstan");
         set.add("Japan");
+        set.add("Japan");
         System.out.println(set);
         for (Object o : set) {
             System.out.println(o.toString());

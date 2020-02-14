@@ -9,7 +9,7 @@ public class PriorityQueueWithComparable {
         secondQueue.offer("teenager");
         secondQueue.offer("a man");
         secondQueue.offer("a woman");
-        System.out.println("\nPriority queue using Comparable:");
+        System.out.println("Priority queue using Comparable:");
         while (secondQueue.size() > 0) {
             System.out.print(secondQueue.remove() + " ");
         }
